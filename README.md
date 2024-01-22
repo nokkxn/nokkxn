@@ -1,6 +1,5 @@
 ### Olá eu sou Vinicius 
 
-- 🔭 Estou atualmente procurando emprego
 - 🌱 Estudando Java
 - 💬 Contate-me no email: vinicius.lourenco.916@gmail.com
   
